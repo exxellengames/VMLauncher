@@ -11,7 +11,7 @@ Useful for creating portable builds and testing software distribution.
 
 ## Download
 - Latest release:
-  https://github.com/USERNAME/REPO/releases
+  https://github.com/exxellengames/VMLauncher/releases
 
 ## Official Website
 - EN: https://exxellengames.great-site.net/en/
