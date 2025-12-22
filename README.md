@@ -1,14 +1,14 @@
 # MyDW
 
-Utility for copying all dependent DLL files required to run an executable.
-Useful for creating portable builds and testing software distribution.
+GUI manager for launching disk images (*.iso, *.raw, *.img, *.bin, *.vdi, *.vmdk, *.vhd, *.vhdx, *.qcow2) in the QEMU virtual machine.
 
 ## Screenshot
-![vmlauncher](https://github.com/user-attachments/assets/12478fe2-b4db-47d4-8ca2-f2f9bca2a14b)
+![vmlauncher](https://github.com/user-attachments/assets/ade0e1d8-a455-4a0d-b6b2-80d31da691d9)
 
 ## Features
-- Copies all dependent DLL files
-- Useful for portable builds
+- Quick start of any operating system.
+- No need to install.
+- Useful for testing flash drives.
 - Simple GUI
 - Windows only
 
@@ -17,7 +17,7 @@ Useful for creating portable builds and testing software distribution.
   https://github.com/exxellengames/VMLauncher/releases
 
 ## Official Website
-- EN: https://exxellengames.great-site.net/en/
+- EN: https://exxellengames.great-site.net/en/Features
 - RU: https://exxellengames.great-site.net/ru/
 
 ## Author
