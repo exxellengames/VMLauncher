@@ -17,7 +17,7 @@ GUI manager for launching disk images (*.iso, *.raw, *.img, *.bin, *.vdi, *.vmdk
   https://github.com/exxellengames/VMLauncher/releases
 
 ## Official Website
-- EN: https://exxellengames.great-site.net/en/Features
+- EN: https://exxellengames.great-site.net/en/
 - RU: https://exxellengames.great-site.net/ru/
 
 ## Author
